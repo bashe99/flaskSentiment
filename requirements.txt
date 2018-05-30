@@ -2,4 +2,4 @@ Flask==0.12.1
 numpy
 pygtrie
 tabulate
-tensorflow
+tensorflow==1.4
