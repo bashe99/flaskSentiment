@@ -2,5 +2,3 @@ Flask==0.12.1
 numpy
 pygtrie
 tabulate
-matplotlib
-logging
