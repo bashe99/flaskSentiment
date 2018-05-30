@@ -1,13 +1,8 @@
 import sys
 import os
-from model.data_utils import CoNLLDataset, get_CoNLL_dataset
 from model.ner_model import NERModel
 from model.embedding_projection_ner_model import ProjectionNERModel
 from model.config import Config
-import matplotlib
-matplotlib.use('agg')
-import matplotlib.pyplot as plt
-import numpy as np
 import glob
 import pickle
 

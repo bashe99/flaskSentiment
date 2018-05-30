@@ -574,3 +574,90 @@ trimm your word vectors.
 2018-05-30 14:08:37,162:INFO: Loading model results/test/model.weights/-10...
 2018-05-30 14:08:37,163:INFO: Restoring parameters from results/test/model.weights/-10
 2018-05-30 14:08:38,264:INFO:  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2018-05-30 14:20:53,534:INFO: logger:<Logger logger (DEBUG)>
+2018-05-30 14:20:53,535:INFO: set_app_arguments:<bound method Config.set_app_arguments of <model.config.Config object at 0x000000C0043100F0>>
+2018-05-30 14:20:53,536:INFO: load:<bound method Config.load of <model.config.Config object at 0x000000C0043100F0>>
+2018-05-30 14:20:53,537:INFO: parser:ArgumentParser(prog='main.py', usage=None, description=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+2018-05-30 14:20:53,538:INFO: args:Namespace(dim_word=None, input_previous_model_path=None, input_training_data_path=None, input_validation_data_path=None, output_model_path=None, word_embedding_name=None)
+2018-05-30 14:20:53,539:INFO: unknown:[]
+2018-05-30 14:20:53,539:INFO: dir_data:data/sentiment/
+2018-05-30 14:20:53,540:INFO: filename_trains:['data/sentiment\\train_sentiment.txt']
+2018-05-30 14:20:53,541:INFO: filename_devs:['data/sentiment\\train_sentiment.txt']
+2018-05-30 14:20:53,541:INFO: filename_test_ins:['data/sentiment/test\\test_in_sentiment.txt']
+2018-05-30 14:20:53,542:INFO: filename_test_outs:['data/sentiment/test\\test_out_sentiment.txt']
+2018-05-30 14:20:53,542:INFO: filename_dict:data/sentiment/dict.txt
+2018-05-30 14:20:53,543:INFO: filename_1p2gb_sample:data/test_1.2GB.sample.0.03.DummyLabeled.txt
+2018-05-30 14:20:53,543:INFO: dir_word_embedding:data/
+2018-05-30 14:20:53,544:INFO: dim_word:64
+2018-05-30 14:20:53,544:INFO: word_embedding_name:baike.1M
+2018-05-30 14:20:53,545:INFO: filename_glove:data//baike.1M/baike.1M.64d.txt
+2018-05-30 14:20:53,545:INFO: dir_build_data_output:data/sentiment/
+2018-05-30 14:20:53,546:INFO: filename_words:data/sentiment/words.txt
+2018-05-30 14:20:53,546:INFO: filename_letter_trigrams:data/sentiment/letter_trigrams.txt
+2018-05-30 14:20:53,547:INFO: filename_task_names:data/sentiment/tasks.txt
+2018-05-30 14:20:53,547:INFO: filename_tasks_intents:data/sentiment/intents
+2018-05-30 14:20:53,548:INFO: filename_tasks_intents_weights:data/sentiment/intents.weights
+2018-05-30 14:20:53,548:INFO: filename_tasks_tags:data/sentiment/tags
+2018-05-30 14:20:53,549:INFO: filename_tasks_chunk_types:data/sentiment/chunk_types
+2018-05-30 14:20:53,549:INFO: filename_chars:data/sentiment/chars.txt
+2018-05-30 14:20:53,550:INFO: filename_dict_types:data/sentiment/dict_types.txt
+2018-05-30 14:20:53,550:INFO: filename_dict_paths:data/sentiment/dict_paths.txt
+2018-05-30 14:20:53,550:INFO: filename_trimmed:data/sentiment/baike.1M.64d.trimmed.npz
+2018-05-30 14:20:53,551:INFO: dir_output:results/test/
+2018-05-30 14:20:53,551:INFO: dir_model:results/test/model.weights/
+2018-05-30 14:20:53,552:INFO: path_log:results/test/log.txt
+2018-05-30 14:20:53,552:INFO: dir_model_evaluate:results/test/model.weights/
+2018-05-30 14:20:53,552:INFO: dim_char:100
+2018-05-30 14:20:53,553:INFO: dim_letter_trigram:50
+2018-05-30 14:20:53,554:INFO: dim_word_proj:50
+2018-05-30 14:20:53,554:INFO: trie_separator:.
+2018-05-30 14:20:53,555:INFO: max_iter:None
+2018-05-30 14:20:53,555:INFO: use_pretrained:True
+2018-05-30 14:20:53,556:INFO: train_embeddings:False
+2018-05-30 14:20:53,557:INFO: nepochs:30
+2018-05-30 14:20:53,557:INFO: dropout:0.4
+2018-05-30 14:20:53,558:INFO: batch_size:20
+2018-05-30 14:20:53,559:INFO: batch_sequence_random_seed:None
+2018-05-30 14:20:53,559:INFO: task_mb_merge:permute
+2018-05-30 14:20:53,560:INFO: lr_method:adam
+2018-05-30 14:20:53,560:INFO: lr:0.001
+2018-05-30 14:20:53,560:INFO: lr_decay:0.9
+2018-05-30 14:20:53,561:INFO: clip:-1
+2018-05-30 14:20:53,561:INFO: nepoch_no_imprv:3
+2018-05-30 14:20:53,562:INFO: l2_lambda:0
+2018-05-30 14:20:53,562:INFO: l2_bias:False
+2018-05-30 14:20:53,562:INFO: l2_l3g:False
+2018-05-30 14:20:53,563:INFO: hidden_size_char:100
+2018-05-30 14:20:53,563:INFO: hidden_size_lstm:300
+2018-05-30 14:20:53,564:INFO: attention_size_rnn_agg:100
+2018-05-30 14:20:53,564:INFO: use_crf:True
+2018-05-30 14:20:53,564:INFO: use_chars:True
+2018-05-30 14:20:53,565:INFO: use_letter_trigram:False
+2018-05-30 14:20:53,565:INFO: letter_trigram_dummy_row_enabled:True
+2018-05-30 14:20:53,566:INFO: use_dict:False
+2018-05-30 14:20:53,567:INFO: classifier_rnn_agg:last
+2018-05-30 14:20:53,567:INFO: chars_lowercase:True
+2018-05-30 14:20:53,568:INFO: trimmed_word_num:0
+2018-05-30 14:20:53,568:INFO: my_only_use_forward_char:False
+2018-05-30 14:20:53,569:INFO: my_only_use_forward_word:False
+2018-05-30 14:20:53,569:INFO: my_use_word_embedding:True
+2018-05-30 14:20:53,569:INFO: my_rnn_cell:MyGRU
+2018-05-30 14:20:53,570:INFO: graph_random_seed:None
+2018-05-30 14:20:53,570:INFO: tfdbg_enabled:False
+2018-05-30 14:20:53,571:INFO: embedding_proj:False
+2018-05-30 14:20:53,571:INFO: max_sent_len:None
+2018-05-30 14:20:53,571:INFO: max_word_len:None
+2018-05-30 14:20:53,572:INFO: binary_weights_word:False
+2018-05-30 14:20:53,572:INFO: binary_weights_char:False
+2018-05-30 14:20:53,573:INFO: binary_weights_ltg:False
+2018-05-30 14:20:53,573:INFO: binary_weights_proj:False
+2018-05-30 14:20:53,574:INFO: filename_embedding_projection:data/embedding_projection.50d.txt
+2018-05-30 14:20:53,574:INFO: filename_embedding_projection_npz:data/embedding_projection.50d.trimmed.npz
+2018-05-30 14:20:53,575:INFO: dir_proj_model:results/test/proj_model.weights/
+2018-05-30 14:20:53,575:INFO: use_embedding_proj_pred:False
+2018-05-30 14:21:00,363:INFO: Initializing tf session
+2018-05-30 14:21:01,455:INFO: Reloading the latest trained model...
+2018-05-30 14:21:01,469:INFO: Loading model results/test/model.weights/-10...
+2018-05-30 14:21:01,470:INFO: Restoring parameters from results/test/model.weights/-10
+2018-05-30 14:21:01,944:INFO: 127.0.0.1 - - [30/May/2018 14:21:01] "[37mGET /build HTTP/1.1[0m" 200 -
+2018-05-30 14:21:16,139:INFO: 127.0.0.1 - - [30/May/2018 14:21:16] "[37mGET /detect/%E5%A4%AA%E5%A5%BD%E4%BA%86 HTTP/1.1[0m" 200 -
