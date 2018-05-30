@@ -1,0 +1,401 @@
+2018-05-30 11:11:13,306:INFO: logger:<Logger logger (DEBUG)>
+2018-05-30 11:11:13,307:INFO: set_app_arguments:<bound method Config.set_app_arguments of <model.config.Config object at 0x00000075F0066668>>
+2018-05-30 11:11:13,308:INFO: load:<bound method Config.load of <model.config.Config object at 0x00000075F0066668>>
+2018-05-30 11:11:13,309:INFO: parser:ArgumentParser(prog='-m', usage=None, description=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+2018-05-30 11:11:13,310:INFO: args:Namespace(dim_word=None, input_previous_model_path=None, input_training_data_path=None, input_validation_data_path=None, output_model_path=None, word_embedding_name=None)
+2018-05-30 11:11:13,311:INFO: unknown:['flask', 'run']
+2018-05-30 11:11:13,312:INFO: dir_data:data/sentiment/
+2018-05-30 11:11:13,312:INFO: filename_trains:[]
+2018-05-30 11:11:13,313:INFO: filename_devs:[]
+2018-05-30 11:11:13,313:INFO: filename_test_ins:[]
+2018-05-30 11:11:13,314:INFO: filename_test_outs:[]
+2018-05-30 11:11:13,315:INFO: filename_dict:data/sentiment/dict.txt
+2018-05-30 11:11:13,315:INFO: filename_1p2gb_sample:data/test_1.2GB.sample.0.03.DummyLabeled.txt
+2018-05-30 11:11:13,316:INFO: dir_word_embedding:data/
+2018-05-30 11:11:13,316:INFO: dim_word:64
+2018-05-30 11:11:13,317:INFO: word_embedding_name:baike.1M
+2018-05-30 11:11:13,317:INFO: filename_glove:data//baike.1M/baike.1M.64d.txt
+2018-05-30 11:11:13,318:INFO: dir_build_data_output:data/sentiment/
+2018-05-30 11:11:13,318:INFO: filename_words:data/sentiment/words.txt
+2018-05-30 11:11:13,319:INFO: filename_letter_trigrams:data/sentiment/letter_trigrams.txt
+2018-05-30 11:11:13,319:INFO: filename_task_names:data/sentiment/tasks.txt
+2018-05-30 11:11:13,320:INFO: filename_tasks_intents:data/sentiment/intents
+2018-05-30 11:11:13,320:INFO: filename_tasks_intents_weights:data/sentiment/intents.weights
+2018-05-30 11:11:13,321:INFO: filename_tasks_tags:data/sentiment/tags
+2018-05-30 11:11:13,321:INFO: filename_tasks_chunk_types:data/sentiment/chunk_types
+2018-05-30 11:11:13,322:INFO: filename_chars:data/sentiment/chars.txt
+2018-05-30 11:11:13,322:INFO: filename_dict_types:data/sentiment/dict_types.txt
+2018-05-30 11:11:13,323:INFO: filename_dict_paths:data/sentiment/dict_paths.txt
+2018-05-30 11:11:13,323:INFO: filename_trimmed:data/sentiment/baike.1M.64d.trimmed.npz
+2018-05-30 11:11:13,324:INFO: dir_output:results/test/
+2018-05-30 11:11:13,325:INFO: dir_model:results/test/model.weights/
+2018-05-30 11:11:13,325:INFO: path_log:results/test/log.txt
+2018-05-30 11:11:13,326:INFO: dir_model_evaluate:results/test/model.weights/
+2018-05-30 11:11:13,326:INFO: dim_char:100
+2018-05-30 11:11:13,327:INFO: dim_letter_trigram:50
+2018-05-30 11:11:13,327:INFO: dim_word_proj:50
+2018-05-30 11:11:13,328:INFO: trie_separator:.
+2018-05-30 11:11:13,328:INFO: max_iter:None
+2018-05-30 11:11:13,329:INFO: use_pretrained:True
+2018-05-30 11:11:13,329:INFO: train_embeddings:False
+2018-05-30 11:11:13,330:INFO: nepochs:30
+2018-05-30 11:11:13,330:INFO: dropout:0.4
+2018-05-30 11:11:13,331:INFO: batch_size:20
+2018-05-30 11:11:13,331:INFO: batch_sequence_random_seed:None
+2018-05-30 11:11:13,332:INFO: task_mb_merge:permute
+2018-05-30 11:11:13,332:INFO: lr_method:adam
+2018-05-30 11:11:13,333:INFO: lr:0.001
+2018-05-30 11:11:13,333:INFO: lr_decay:0.9
+2018-05-30 11:11:13,334:INFO: clip:-1
+2018-05-30 11:11:13,334:INFO: nepoch_no_imprv:3
+2018-05-30 11:11:13,335:INFO: l2_lambda:0
+2018-05-30 11:11:13,335:INFO: l2_bias:False
+2018-05-30 11:11:13,336:INFO: l2_l3g:False
+2018-05-30 11:11:13,336:INFO: hidden_size_char:100
+2018-05-30 11:11:13,337:INFO: hidden_size_lstm:300
+2018-05-30 11:11:13,337:INFO: attention_size_rnn_agg:100
+2018-05-30 11:11:13,338:INFO: use_crf:True
+2018-05-30 11:11:13,338:INFO: use_chars:True
+2018-05-30 11:11:13,338:INFO: use_letter_trigram:False
+2018-05-30 11:11:13,339:INFO: letter_trigram_dummy_row_enabled:True
+2018-05-30 11:11:13,339:INFO: use_dict:False
+2018-05-30 11:11:13,340:INFO: classifier_rnn_agg:last
+2018-05-30 11:11:13,340:INFO: chars_lowercase:True
+2018-05-30 11:11:13,341:INFO: trimmed_word_num:0
+2018-05-30 11:11:13,342:INFO: my_only_use_forward_char:False
+2018-05-30 11:11:13,342:INFO: my_only_use_forward_word:False
+2018-05-30 11:11:13,343:INFO: my_use_word_embedding:True
+2018-05-30 11:11:13,343:INFO: my_rnn_cell:MyGRU
+2018-05-30 11:11:13,344:INFO: graph_random_seed:None
+2018-05-30 11:11:13,344:INFO: tfdbg_enabled:False
+2018-05-30 11:11:13,344:INFO: embedding_proj:False
+2018-05-30 11:11:13,345:INFO: max_sent_len:None
+2018-05-30 11:11:13,346:INFO: max_word_len:None
+2018-05-30 11:11:13,346:INFO: binary_weights_word:False
+2018-05-30 11:11:13,347:INFO: binary_weights_char:False
+2018-05-30 11:11:13,347:INFO: binary_weights_ltg:False
+2018-05-30 11:11:13,347:INFO: binary_weights_proj:False
+2018-05-30 11:11:13,348:INFO: filename_embedding_projection:data/embedding_projection.50d.txt
+2018-05-30 11:11:13,348:INFO: filename_embedding_projection_npz:data/embedding_projection.50d.trimmed.npz
+2018-05-30 11:11:13,349:INFO: dir_proj_model:results/test/proj_model.weights/
+2018-05-30 11:11:13,349:INFO: use_embedding_proj_pred:False
+2018-05-30 11:11:13,351:ERROR: Exception on /build [GET]
+Traceback (most recent call last):
+  File "D:\Data\Sentiment\sequence_taging\model\data_utils.py", line 271, in load_vocab
+    with open(filename, encoding='utf-8') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'data/sentiment/tasks.txt'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\bashe\AppData\Local\conda\conda\envs\tensorflow\lib\site-packages\flask\app.py", line 2292, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\bashe\AppData\Local\conda\conda\envs\tensorflow\lib\site-packages\flask\app.py", line 1815, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\bashe\AppData\Local\conda\conda\envs\tensorflow\lib\site-packages\flask\app.py", line 1718, in handle_user_exception
+    reraise(exc_type, exc_value, tb)
+  File "C:\Users\bashe\AppData\Local\conda\conda\envs\tensorflow\lib\site-packages\flask\_compat.py", line 35, in reraise
+    raise value
+  File "C:\Users\bashe\AppData\Local\conda\conda\envs\tensorflow\lib\site-packages\flask\app.py", line 1813, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\bashe\AppData\Local\conda\conda\envs\tensorflow\lib\site-packages\flask\app.py", line 1799, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "D:\Data\Sentiment\sequence_taging\service.py", line 30, in buildModel
+    config = Config()
+  File "D:\Data\Sentiment\sequence_taging\model\config.py", line 36, in __init__
+    self.load()
+  File "D:\Data\Sentiment\sequence_taging\model\config.py", line 104, in load
+    self.vocab_tasks = load_vocab(self.filename_task_names)
+  File "D:\Data\Sentiment\sequence_taging\model\data_utils.py", line 277, in load_vocab
+    raise MyIOError(filename)
+model.data_utils.MyIOError: 
+ERROR: Unable to locate file data/sentiment/tasks.txt.
+
+FIX: Have you tried running python build_data.py first?
+This will build vocab file from your train, test and dev sets and
+trimm your word vectors.
+
+2018-05-30 11:11:13,365:INFO: 127.0.0.1 - - [30/May/2018 11:11:13] "[1m[35mGET /build HTTP/1.1[0m" 500 -
+2018-05-30 11:12:32,218:INFO: logger:<Logger logger (DEBUG)>
+2018-05-30 11:12:32,218:INFO: logger:<Logger logger (DEBUG)>
+2018-05-30 11:12:32,218:INFO: set_app_arguments:<bound method Config.set_app_arguments of <model.config.Config object at 0x00000075F009A668>>
+2018-05-30 11:12:32,218:INFO: set_app_arguments:<bound method Config.set_app_arguments of <model.config.Config object at 0x00000075F009A668>>
+2018-05-30 11:12:32,219:INFO: load:<bound method Config.load of <model.config.Config object at 0x00000075F009A668>>
+2018-05-30 11:12:32,219:INFO: load:<bound method Config.load of <model.config.Config object at 0x00000075F009A668>>
+2018-05-30 11:12:32,220:INFO: parser:ArgumentParser(prog='-m', usage=None, description=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+2018-05-30 11:12:32,220:INFO: parser:ArgumentParser(prog='-m', usage=None, description=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+2018-05-30 11:12:32,221:INFO: args:Namespace(dim_word=None, input_previous_model_path=None, input_training_data_path=None, input_validation_data_path=None, output_model_path=None, word_embedding_name=None)
+2018-05-30 11:12:32,221:INFO: args:Namespace(dim_word=None, input_previous_model_path=None, input_training_data_path=None, input_validation_data_path=None, output_model_path=None, word_embedding_name=None)
+2018-05-30 11:12:32,222:INFO: unknown:['flask', 'run']
+2018-05-30 11:12:32,222:INFO: unknown:['flask', 'run']
+2018-05-30 11:12:32,223:INFO: dir_data:data/sentiment/
+2018-05-30 11:12:32,223:INFO: dir_data:data/sentiment/
+2018-05-30 11:12:32,224:INFO: filename_trains:[]
+2018-05-30 11:12:32,224:INFO: filename_trains:[]
+2018-05-30 11:12:32,224:INFO: filename_devs:[]
+2018-05-30 11:12:32,224:INFO: filename_devs:[]
+2018-05-30 11:12:32,225:INFO: filename_test_ins:[]
+2018-05-30 11:12:32,225:INFO: filename_test_ins:[]
+2018-05-30 11:12:32,226:INFO: filename_test_outs:[]
+2018-05-30 11:12:32,226:INFO: filename_test_outs:[]
+2018-05-30 11:12:32,227:INFO: filename_dict:data/sentiment/dict.txt
+2018-05-30 11:12:32,227:INFO: filename_dict:data/sentiment/dict.txt
+2018-05-30 11:12:32,228:INFO: filename_1p2gb_sample:data/test_1.2GB.sample.0.03.DummyLabeled.txt
+2018-05-30 11:12:32,228:INFO: filename_1p2gb_sample:data/test_1.2GB.sample.0.03.DummyLabeled.txt
+2018-05-30 11:12:32,228:INFO: dir_word_embedding:data/
+2018-05-30 11:12:32,228:INFO: dir_word_embedding:data/
+2018-05-30 11:12:32,229:INFO: dim_word:64
+2018-05-30 11:12:32,229:INFO: dim_word:64
+2018-05-30 11:12:32,230:INFO: word_embedding_name:baike.1M
+2018-05-30 11:12:32,230:INFO: word_embedding_name:baike.1M
+2018-05-30 11:12:32,230:INFO: filename_glove:data//baike.1M/baike.1M.64d.txt
+2018-05-30 11:12:32,230:INFO: filename_glove:data//baike.1M/baike.1M.64d.txt
+2018-05-30 11:12:32,231:INFO: dir_build_data_output:data/sentiment/
+2018-05-30 11:12:32,231:INFO: dir_build_data_output:data/sentiment/
+2018-05-30 11:12:32,232:INFO: filename_words:data/sentiment/words.txt
+2018-05-30 11:12:32,232:INFO: filename_words:data/sentiment/words.txt
+2018-05-30 11:12:32,232:INFO: filename_letter_trigrams:data/sentiment/letter_trigrams.txt
+2018-05-30 11:12:32,232:INFO: filename_letter_trigrams:data/sentiment/letter_trigrams.txt
+2018-05-30 11:12:32,233:INFO: filename_task_names:data/sentiment/tasks.txt
+2018-05-30 11:12:32,233:INFO: filename_task_names:data/sentiment/tasks.txt
+2018-05-30 11:12:32,234:INFO: filename_tasks_intents:data/sentiment/intents
+2018-05-30 11:12:32,234:INFO: filename_tasks_intents:data/sentiment/intents
+2018-05-30 11:12:32,234:INFO: filename_tasks_intents_weights:data/sentiment/intents.weights
+2018-05-30 11:12:32,234:INFO: filename_tasks_intents_weights:data/sentiment/intents.weights
+2018-05-30 11:12:32,235:INFO: filename_tasks_tags:data/sentiment/tags
+2018-05-30 11:12:32,235:INFO: filename_tasks_tags:data/sentiment/tags
+2018-05-30 11:12:32,235:INFO: filename_tasks_chunk_types:data/sentiment/chunk_types
+2018-05-30 11:12:32,235:INFO: filename_tasks_chunk_types:data/sentiment/chunk_types
+2018-05-30 11:12:32,236:INFO: filename_chars:data/sentiment/chars.txt
+2018-05-30 11:12:32,236:INFO: filename_chars:data/sentiment/chars.txt
+2018-05-30 11:12:32,237:INFO: filename_dict_types:data/sentiment/dict_types.txt
+2018-05-30 11:12:32,237:INFO: filename_dict_types:data/sentiment/dict_types.txt
+2018-05-30 11:12:32,237:INFO: filename_dict_paths:data/sentiment/dict_paths.txt
+2018-05-30 11:12:32,237:INFO: filename_dict_paths:data/sentiment/dict_paths.txt
+2018-05-30 11:12:32,238:INFO: filename_trimmed:data/sentiment/baike.1M.64d.trimmed.npz
+2018-05-30 11:12:32,238:INFO: filename_trimmed:data/sentiment/baike.1M.64d.trimmed.npz
+2018-05-30 11:12:32,239:INFO: dir_output:results/test/
+2018-05-30 11:12:32,239:INFO: dir_output:results/test/
+2018-05-30 11:12:32,239:INFO: dir_model:results/test/model.weights/
+2018-05-30 11:12:32,239:INFO: dir_model:results/test/model.weights/
+2018-05-30 11:12:32,240:INFO: path_log:results/test/log.txt
+2018-05-30 11:12:32,240:INFO: path_log:results/test/log.txt
+2018-05-30 11:12:32,240:INFO: dir_model_evaluate:results/test/model.weights/
+2018-05-30 11:12:32,240:INFO: dir_model_evaluate:results/test/model.weights/
+2018-05-30 11:12:32,241:INFO: dim_char:100
+2018-05-30 11:12:32,241:INFO: dim_char:100
+2018-05-30 11:12:32,241:INFO: dim_letter_trigram:50
+2018-05-30 11:12:32,241:INFO: dim_letter_trigram:50
+2018-05-30 11:12:32,242:INFO: dim_word_proj:50
+2018-05-30 11:12:32,242:INFO: dim_word_proj:50
+2018-05-30 11:12:32,242:INFO: trie_separator:.
+2018-05-30 11:12:32,242:INFO: trie_separator:.
+2018-05-30 11:12:32,243:INFO: max_iter:None
+2018-05-30 11:12:32,243:INFO: max_iter:None
+2018-05-30 11:12:32,244:INFO: use_pretrained:True
+2018-05-30 11:12:32,244:INFO: use_pretrained:True
+2018-05-30 11:12:32,244:INFO: train_embeddings:False
+2018-05-30 11:12:32,244:INFO: train_embeddings:False
+2018-05-30 11:12:32,245:INFO: nepochs:30
+2018-05-30 11:12:32,245:INFO: nepochs:30
+2018-05-30 11:12:32,245:INFO: dropout:0.4
+2018-05-30 11:12:32,245:INFO: dropout:0.4
+2018-05-30 11:12:32,246:INFO: batch_size:20
+2018-05-30 11:12:32,246:INFO: batch_size:20
+2018-05-30 11:12:32,246:INFO: batch_sequence_random_seed:None
+2018-05-30 11:12:32,246:INFO: batch_sequence_random_seed:None
+2018-05-30 11:12:32,246:INFO: task_mb_merge:permute
+2018-05-30 11:12:32,246:INFO: task_mb_merge:permute
+2018-05-30 11:12:32,247:INFO: lr_method:adam
+2018-05-30 11:12:32,247:INFO: lr_method:adam
+2018-05-30 11:12:32,248:INFO: lr:0.001
+2018-05-30 11:12:32,248:INFO: lr:0.001
+2018-05-30 11:12:32,248:INFO: lr_decay:0.9
+2018-05-30 11:12:32,248:INFO: lr_decay:0.9
+2018-05-30 11:12:32,248:INFO: clip:-1
+2018-05-30 11:12:32,248:INFO: clip:-1
+2018-05-30 11:12:32,249:INFO: nepoch_no_imprv:3
+2018-05-30 11:12:32,249:INFO: nepoch_no_imprv:3
+2018-05-30 11:12:32,249:INFO: l2_lambda:0
+2018-05-30 11:12:32,249:INFO: l2_lambda:0
+2018-05-30 11:12:32,250:INFO: l2_bias:False
+2018-05-30 11:12:32,250:INFO: l2_bias:False
+2018-05-30 11:12:32,250:INFO: l2_l3g:False
+2018-05-30 11:12:32,250:INFO: l2_l3g:False
+2018-05-30 11:12:32,251:INFO: hidden_size_char:100
+2018-05-30 11:12:32,251:INFO: hidden_size_char:100
+2018-05-30 11:12:32,251:INFO: hidden_size_lstm:300
+2018-05-30 11:12:32,251:INFO: hidden_size_lstm:300
+2018-05-30 11:12:32,252:INFO: attention_size_rnn_agg:100
+2018-05-30 11:12:32,252:INFO: attention_size_rnn_agg:100
+2018-05-30 11:12:32,252:INFO: use_crf:True
+2018-05-30 11:12:32,252:INFO: use_crf:True
+2018-05-30 11:12:32,253:INFO: use_chars:True
+2018-05-30 11:12:32,253:INFO: use_chars:True
+2018-05-30 11:12:32,253:INFO: use_letter_trigram:False
+2018-05-30 11:12:32,253:INFO: use_letter_trigram:False
+2018-05-30 11:12:32,254:INFO: letter_trigram_dummy_row_enabled:True
+2018-05-30 11:12:32,254:INFO: letter_trigram_dummy_row_enabled:True
+2018-05-30 11:12:32,254:INFO: use_dict:False
+2018-05-30 11:12:32,254:INFO: use_dict:False
+2018-05-30 11:12:32,255:INFO: classifier_rnn_agg:last
+2018-05-30 11:12:32,255:INFO: classifier_rnn_agg:last
+2018-05-30 11:12:32,255:INFO: chars_lowercase:True
+2018-05-30 11:12:32,255:INFO: chars_lowercase:True
+2018-05-30 11:12:32,256:INFO: trimmed_word_num:0
+2018-05-30 11:12:32,256:INFO: trimmed_word_num:0
+2018-05-30 11:12:32,256:INFO: my_only_use_forward_char:False
+2018-05-30 11:12:32,256:INFO: my_only_use_forward_char:False
+2018-05-30 11:12:32,256:INFO: my_only_use_forward_word:False
+2018-05-30 11:12:32,256:INFO: my_only_use_forward_word:False
+2018-05-30 11:12:32,257:INFO: my_use_word_embedding:True
+2018-05-30 11:12:32,257:INFO: my_use_word_embedding:True
+2018-05-30 11:12:32,257:INFO: my_rnn_cell:MyGRU
+2018-05-30 11:12:32,257:INFO: my_rnn_cell:MyGRU
+2018-05-30 11:12:32,258:INFO: graph_random_seed:None
+2018-05-30 11:12:32,258:INFO: graph_random_seed:None
+2018-05-30 11:12:32,258:INFO: tfdbg_enabled:False
+2018-05-30 11:12:32,258:INFO: tfdbg_enabled:False
+2018-05-30 11:12:32,259:INFO: embedding_proj:False
+2018-05-30 11:12:32,259:INFO: embedding_proj:False
+2018-05-30 11:12:32,259:INFO: max_sent_len:None
+2018-05-30 11:12:32,259:INFO: max_sent_len:None
+2018-05-30 11:12:32,260:INFO: max_word_len:None
+2018-05-30 11:12:32,260:INFO: max_word_len:None
+2018-05-30 11:12:32,260:INFO: binary_weights_word:False
+2018-05-30 11:12:32,260:INFO: binary_weights_word:False
+2018-05-30 11:12:32,261:INFO: binary_weights_char:False
+2018-05-30 11:12:32,261:INFO: binary_weights_char:False
+2018-05-30 11:12:32,261:INFO: binary_weights_ltg:False
+2018-05-30 11:12:32,261:INFO: binary_weights_ltg:False
+2018-05-30 11:12:32,262:INFO: binary_weights_proj:False
+2018-05-30 11:12:32,262:INFO: binary_weights_proj:False
+2018-05-30 11:12:32,262:INFO: filename_embedding_projection:data/embedding_projection.50d.txt
+2018-05-30 11:12:32,262:INFO: filename_embedding_projection:data/embedding_projection.50d.txt
+2018-05-30 11:12:32,262:INFO: filename_embedding_projection_npz:data/embedding_projection.50d.trimmed.npz
+2018-05-30 11:12:32,262:INFO: filename_embedding_projection_npz:data/embedding_projection.50d.trimmed.npz
+2018-05-30 11:12:32,263:INFO: dir_proj_model:results/test/proj_model.weights/
+2018-05-30 11:12:32,263:INFO: dir_proj_model:results/test/proj_model.weights/
+2018-05-30 11:12:32,263:INFO: use_embedding_proj_pred:False
+2018-05-30 11:12:32,263:INFO: use_embedding_proj_pred:False
+2018-05-30 11:12:42,621:INFO: Initializing tf session
+2018-05-30 11:12:42,621:INFO: Initializing tf session
+2018-05-30 11:12:44,048:INFO: Reloading the latest trained model...
+2018-05-30 11:12:44,048:INFO: Reloading the latest trained model...
+2018-05-30 11:12:44,098:INFO: Loading model results/test/model.weights/-10...
+2018-05-30 11:12:44,098:INFO: Loading model results/test/model.weights/-10...
+2018-05-30 11:12:44,099:INFO: Restoring parameters from results/test/model.weights/-10
+2018-05-30 11:12:44,099:INFO: Restoring parameters from results/test/model.weights/-10
+2018-05-30 11:12:44,609:INFO: 127.0.0.1 - - [30/May/2018 11:12:44] "[37mGET /build HTTP/1.1[0m" 200 -
+2018-05-30 11:12:44,609:INFO: 127.0.0.1 - - [30/May/2018 11:12:44] "[37mGET /build HTTP/1.1[0m" 200 -
+2018-05-30 11:12:53,802:INFO: 127.0.0.1 - - [30/May/2018 11:12:53] "[37mGET /detect/%E5%A4%AA%E5%A5%BD%E4%BA%86 HTTP/1.1[0m" 200 -
+2018-05-30 11:12:53,802:INFO: 127.0.0.1 - - [30/May/2018 11:12:53] "[37mGET /detect/%E5%A4%AA%E5%A5%BD%E4%BA%86 HTTP/1.1[0m" 200 -
+2018-05-30 11:24:00,442:INFO: 127.0.0.1 - - [30/May/2018 11:24:00] "[37mGET /detect/%E6%88%91%E5%B0%B1%E6%98%AF HTTP/1.1[0m" 200 -
+2018-05-30 11:24:00,442:INFO: 127.0.0.1 - - [30/May/2018 11:24:00] "[37mGET /detect/%E6%88%91%E5%B0%B1%E6%98%AF HTTP/1.1[0m" 200 -
+2018-05-30 11:24:36,699:INFO: 127.0.0.1 - - [30/May/2018 11:24:36] "[37mGET /detect/%E6%9C%89%E7%9A%84 HTTP/1.1[0m" 200 -
+2018-05-30 11:24:36,699:INFO: 127.0.0.1 - - [30/May/2018 11:24:36] "[37mGET /detect/%E6%9C%89%E7%9A%84 HTTP/1.1[0m" 200 -
+2018-05-30 11:24:42,339:INFO: 127.0.0.1 - - [30/May/2018 11:24:42] "[37mGET /detect/%E4%B9%9F%E6%9C%89%E7%9A%84 HTTP/1.1[0m" 200 -
+2018-05-30 11:24:42,339:INFO: 127.0.0.1 - - [30/May/2018 11:24:42] "[37mGET /detect/%E4%B9%9F%E6%9C%89%E7%9A%84 HTTP/1.1[0m" 200 -
+2018-05-30 11:24:49,104:INFO: 127.0.0.1 - - [30/May/2018 11:24:49] "[37mGET /detect/%E6%98%AF%E7%9A%84 HTTP/1.1[0m" 200 -
+2018-05-30 11:24:49,104:INFO: 127.0.0.1 - - [30/May/2018 11:24:49] "[37mGET /detect/%E6%98%AF%E7%9A%84 HTTP/1.1[0m" 200 -
+2018-05-30 11:25:03,525:INFO: 127.0.0.1 - - [30/May/2018 11:25:03] "[37mGET /detect/%E6%88%91%E5%A4%AA%E6%BB%A1%E6%84%8F%E4%BA%86 HTTP/1.1[0m" 200 -
+2018-05-30 11:25:03,525:INFO: 127.0.0.1 - - [30/May/2018 11:25:03] "[37mGET /detect/%E6%88%91%E5%A4%AA%E6%BB%A1%E6%84%8F%E4%BA%86 HTTP/1.1[0m" 200 -
+2018-05-30 11:25:57,252:INFO: 127.0.0.1 - - [30/May/2018 11:25:57] "[37mGET /detect/%E5%A5%BD%E5%95%8A HTTP/1.1[0m" 200 -
+2018-05-30 11:25:57,252:INFO: 127.0.0.1 - - [30/May/2018 11:25:57] "[37mGET /detect/%E5%A5%BD%E5%95%8A HTTP/1.1[0m" 200 -
+2018-05-30 11:26:04,588:INFO: 127.0.0.1 - - [30/May/2018 11:26:04] "[37mGET /detect/%E5%BE%88%E5%A5%BD HTTP/1.1[0m" 200 -
+2018-05-30 11:26:04,588:INFO: 127.0.0.1 - - [30/May/2018 11:26:04] "[37mGET /detect/%E5%BE%88%E5%A5%BD HTTP/1.1[0m" 200 -
+2018-05-30 11:26:18,011:INFO: 127.0.0.1 - - [30/May/2018 11:26:18] "[37mGET /detect/%E6%9C%89%E7%9A%84 HTTP/1.1[0m" 200 -
+2018-05-30 11:26:18,011:INFO: 127.0.0.1 - - [30/May/2018 11:26:18] "[37mGET /detect/%E6%9C%89%E7%9A%84 HTTP/1.1[0m" 200 -
+2018-05-30 11:26:23,198:INFO: 127.0.0.1 - - [30/May/2018 11:26:23] "[37mGET /detect/%E6%9C%89%E7%9A%84 HTTP/1.1[0m" 200 -
+2018-05-30 11:26:23,198:INFO: 127.0.0.1 - - [30/May/2018 11:26:23] "[37mGET /detect/%E6%9C%89%E7%9A%84 HTTP/1.1[0m" 200 -
+2018-05-30 11:26:25,672:INFO: 127.0.0.1 - - [30/May/2018 11:26:25] "[37mGET /detect/%E6%9C%89%E7%9A%84 HTTP/1.1[0m" 200 -
+2018-05-30 11:26:25,672:INFO: 127.0.0.1 - - [30/May/2018 11:26:25] "[37mGET /detect/%E6%9C%89%E7%9A%84 HTTP/1.1[0m" 200 -
+2018-05-30 11:26:33,267:INFO: 127.0.0.1 - - [30/May/2018 11:26:33] "[37mGET /detect/%E9%9D%9E%E5%B8%B8%E5%A5%BD HTTP/1.1[0m" 200 -
+2018-05-30 11:26:33,267:INFO: 127.0.0.1 - - [30/May/2018 11:26:33] "[37mGET /detect/%E9%9D%9E%E5%B8%B8%E5%A5%BD HTTP/1.1[0m" 200 -
+2018-05-30 13:23:58,380:INFO: logger:<Logger logger (DEBUG)>
+2018-05-30 13:23:58,381:INFO: set_app_arguments:<bound method Config.set_app_arguments of <model.config.Config object at 0x0000002AA4308DD8>>
+2018-05-30 13:23:58,382:INFO: load:<bound method Config.load of <model.config.Config object at 0x0000002AA4308DD8>>
+2018-05-30 13:23:58,382:INFO: parser:ArgumentParser(prog='service.py', usage=None, description=None, formatter_class=<class 'argparse.HelpFormatter'>, conflict_handler='error', add_help=True)
+2018-05-30 13:23:58,383:INFO: args:Namespace(dim_word=None, input_previous_model_path=None, input_training_data_path=None, input_validation_data_path=None, output_model_path=None, word_embedding_name=None)
+2018-05-30 13:23:58,384:INFO: unknown:[]
+2018-05-30 13:23:58,385:INFO: dir_data:data/sentiment/
+2018-05-30 13:23:58,385:INFO: filename_trains:['data/sentiment\\train_sentiment.txt']
+2018-05-30 13:23:58,386:INFO: filename_devs:['data/sentiment\\train_sentiment.txt']
+2018-05-30 13:23:58,386:INFO: filename_test_ins:['data/sentiment/test\\test_in_sentiment.txt']
+2018-05-30 13:23:58,386:INFO: filename_test_outs:['data/sentiment/test\\test_out_sentiment.txt']
+2018-05-30 13:23:58,387:INFO: filename_dict:data/sentiment/dict.txt
+2018-05-30 13:23:58,387:INFO: filename_1p2gb_sample:data/test_1.2GB.sample.0.03.DummyLabeled.txt
+2018-05-30 13:23:58,388:INFO: dir_word_embedding:data/
+2018-05-30 13:23:58,388:INFO: dim_word:64
+2018-05-30 13:23:58,389:INFO: word_embedding_name:baike.1M
+2018-05-30 13:23:58,389:INFO: filename_glove:data//baike.1M/baike.1M.64d.txt
+2018-05-30 13:23:58,390:INFO: dir_build_data_output:data/sentiment/
+2018-05-30 13:23:58,390:INFO: filename_words:data/sentiment/words.txt
+2018-05-30 13:23:58,391:INFO: filename_letter_trigrams:data/sentiment/letter_trigrams.txt
+2018-05-30 13:23:58,391:INFO: filename_task_names:data/sentiment/tasks.txt
+2018-05-30 13:23:58,391:INFO: filename_tasks_intents:data/sentiment/intents
+2018-05-30 13:23:58,392:INFO: filename_tasks_intents_weights:data/sentiment/intents.weights
+2018-05-30 13:23:58,393:INFO: filename_tasks_tags:data/sentiment/tags
+2018-05-30 13:23:58,393:INFO: filename_tasks_chunk_types:data/sentiment/chunk_types
+2018-05-30 13:23:58,394:INFO: filename_chars:data/sentiment/chars.txt
+2018-05-30 13:23:58,394:INFO: filename_dict_types:data/sentiment/dict_types.txt
+2018-05-30 13:23:58,395:INFO: filename_dict_paths:data/sentiment/dict_paths.txt
+2018-05-30 13:23:58,395:INFO: filename_trimmed:data/sentiment/baike.1M.64d.trimmed.npz
+2018-05-30 13:23:58,396:INFO: dir_output:results/test/
+2018-05-30 13:23:58,396:INFO: dir_model:results/test/model.weights/
+2018-05-30 13:23:58,397:INFO: path_log:results/test/log.txt
+2018-05-30 13:23:58,397:INFO: dir_model_evaluate:results/test/model.weights/
+2018-05-30 13:23:58,398:INFO: dim_char:100
+2018-05-30 13:23:58,398:INFO: dim_letter_trigram:50
+2018-05-30 13:23:58,399:INFO: dim_word_proj:50
+2018-05-30 13:23:58,399:INFO: trie_separator:.
+2018-05-30 13:23:58,399:INFO: max_iter:None
+2018-05-30 13:23:58,400:INFO: use_pretrained:True
+2018-05-30 13:23:58,400:INFO: train_embeddings:False
+2018-05-30 13:23:58,401:INFO: nepochs:30
+2018-05-30 13:23:58,401:INFO: dropout:0.4
+2018-05-30 13:23:58,401:INFO: batch_size:20
+2018-05-30 13:23:58,402:INFO: batch_sequence_random_seed:None
+2018-05-30 13:23:58,402:INFO: task_mb_merge:permute
+2018-05-30 13:23:58,402:INFO: lr_method:adam
+2018-05-30 13:23:58,403:INFO: lr:0.001
+2018-05-30 13:23:58,403:INFO: lr_decay:0.9
+2018-05-30 13:23:58,404:INFO: clip:-1
+2018-05-30 13:23:58,404:INFO: nepoch_no_imprv:3
+2018-05-30 13:23:58,404:INFO: l2_lambda:0
+2018-05-30 13:23:58,405:INFO: l2_bias:False
+2018-05-30 13:23:58,405:INFO: l2_l3g:False
+2018-05-30 13:23:58,406:INFO: hidden_size_char:100
+2018-05-30 13:23:58,406:INFO: hidden_size_lstm:300
+2018-05-30 13:23:58,407:INFO: attention_size_rnn_agg:100
+2018-05-30 13:23:58,407:INFO: use_crf:True
+2018-05-30 13:23:58,407:INFO: use_chars:True
+2018-05-30 13:23:58,408:INFO: use_letter_trigram:False
+2018-05-30 13:23:58,408:INFO: letter_trigram_dummy_row_enabled:True
+2018-05-30 13:23:58,408:INFO: use_dict:False
+2018-05-30 13:23:58,409:INFO: classifier_rnn_agg:last
+2018-05-30 13:23:58,409:INFO: chars_lowercase:True
+2018-05-30 13:23:58,410:INFO: trimmed_word_num:0
+2018-05-30 13:23:58,410:INFO: my_only_use_forward_char:False
+2018-05-30 13:23:58,410:INFO: my_only_use_forward_word:False
+2018-05-30 13:23:58,411:INFO: my_use_word_embedding:True
+2018-05-30 13:23:58,411:INFO: my_rnn_cell:MyGRU
+2018-05-30 13:23:58,412:INFO: graph_random_seed:None
+2018-05-30 13:23:58,412:INFO: tfdbg_enabled:False
+2018-05-30 13:23:58,413:INFO: embedding_proj:False
+2018-05-30 13:23:58,413:INFO: max_sent_len:None
+2018-05-30 13:23:58,413:INFO: max_word_len:None
+2018-05-30 13:23:58,414:INFO: binary_weights_word:False
+2018-05-30 13:23:58,414:INFO: binary_weights_char:False
+2018-05-30 13:23:58,415:INFO: binary_weights_ltg:False
+2018-05-30 13:23:58,415:INFO: binary_weights_proj:False
+2018-05-30 13:23:58,415:INFO: filename_embedding_projection:data/embedding_projection.50d.txt
+2018-05-30 13:23:58,416:INFO: filename_embedding_projection_npz:data/embedding_projection.50d.trimmed.npz
+2018-05-30 13:23:58,416:INFO: dir_proj_model:results/test/proj_model.weights/
+2018-05-30 13:23:58,417:INFO: use_embedding_proj_pred:False
+2018-05-30 13:24:07,186:INFO: Initializing tf session
+2018-05-30 13:24:07,996:INFO: Reloading the latest trained model...
+2018-05-30 13:24:08,023:INFO: Loading model results/test/model.weights/-10...
+2018-05-30 13:24:08,024:INFO: Restoring parameters from results/test/model.weights/-10
+2018-05-30 13:24:08,820:INFO: 127.0.0.1 - - [30/May/2018 13:24:08] "[37mGET /build HTTP/1.1[0m" 200 -
+2018-05-30 13:24:15,129:INFO: 127.0.0.1 - - [30/May/2018 13:24:15] "[37mGET /detect/%E5%A4%AA%E5%A5%BD%E4%BA%86 HTTP/1.1[0m" 200 -

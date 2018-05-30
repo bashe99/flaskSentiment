@@ -1,0 +1,687 @@
+Positive
+我 O
+就是 O
+
+
+Positive
+你好 O
+
+
+Positive
+是的 O
+没 O
+错 O
+
+
+Positive
+可以 O
+啊 O
+
+
+Positive
+方便 O
+的 O
+
+
+Positive
+你 O
+说 O
+吧 O
+
+
+Positive
+请 O
+说 O
+
+
+Positive
+好 O
+的 O
+
+
+Positive
+说 O
+吧 O
+
+
+Positive
+都 O
+好 O
+都 O
+好 O
+就 O
+这样 O
+吧 O
+
+
+Positive
+现在 O
+没 O
+问题 O
+了 O
+
+
+Positive
+能 O
+用 O
+了 O
+
+
+Positive
+还 O
+可以 O
+吧 O
+
+
+Positive
+师傅 O
+服务 O
+挺 O
+好 O
+的 O
+
+
+Positive
+非常 O
+满意 O
+啊 O
+
+
+Positive
+有 O
+清理 O
+了 O
+
+
+Positive
+打扫 O
+过 O
+的 O
+
+
+Positive
+很 O
+干净 O
+
+
+Positive
+还 O
+不 O
+错 O
+
+
+Positive
+有 O
+出示 O
+
+
+Positive
+安装 O
+过程 O
+很 O
+干净 O
+
+
+Positive
+做 O
+的 O
+很 O
+仔细 O
+
+
+Positive
+简单 O
+清理 O
+了 O
+一下 O
+
+
+Positive
+嗯 O
+怎么 O
+了 O
+
+
+Positive
+安装 O
+好 O
+了 O
+
+
+Positive
+没 O
+有 O
+问题 O
+的 O
+
+
+Positive
+挺 O
+不 O
+错 O
+的 O
+一 O
+次 O
+
+
+Positive
+我 O
+挺 O
+满意 O
+的 O
+
+
+Positive
+很 O
+好 O
+啊 O
+
+
+Positive
+非常 O
+棒 O
+
+
+Positive
+师傅 O
+的 O
+技术 O
+太 O
+厉害 O
+了 O
+
+
+Positive
+冰箱 O
+可以 O
+正常 O
+工作 O
+了 O
+
+
+Positive
+现在 O
+是 O
+可以 O
+的 O
+
+
+Positive
+我 O
+觉得 O
+还 O
+行 O
+吧 O
+
+
+Positive
+基本 O
+上 O
+没 O
+什么 O
+问题 O
+了 O
+
+
+Positive
+我 O
+答应 O
+你 O
+
+
+Positive
+我 O
+就是 O
+
+
+Positive
+你们 O
+都是 O
+人才 O
+
+
+Positive
+很 O
+好看 O
+
+
+Positive
+干 O
+得 O
+漂亮 O
+
+
+Negative
+不 O
+是 O
+
+
+Negative
+你 O
+打 O
+错 O
+了 O
+
+
+Negative
+不 O
+认识 O
+这个 O
+人 O
+
+
+Negative
+不 O
+方便 O
+
+
+Negative
+没 O
+时间 O
+
+
+Negative
+不 O
+用 O
+回访 O
+了 O
+
+
+Negative
+现在 O
+没 O
+空 O
+
+
+Negative
+明天 O
+也 O
+没 O
+空 O
+
+
+Negative
+好 O
+什么 O
+好 O
+
+
+Negative
+简直 O
+就是 O
+乱 O
+搞 O
+
+
+Negative
+瞎 O
+弄 O
+
+
+Negative
+不 O
+正常 O
+
+
+Negative
+不 O
+能 O
+
+
+Negative
+不 O
+行 O
+
+
+Negative
+现在 O
+又 O
+坏 O
+了 O
+
+
+Negative
+服务 O
+太 O
+差 O
+了 O
+
+
+Negative
+技术 O
+不 O
+行 O
+
+
+Negative
+技术 O
+不 O
+过关 O
+
+
+Negative
+迟到 O
+了 O
+很多 O
+
+
+Negative
+不 O
+准时 O
+
+
+Negative
+不 O
+满意 O
+
+
+Negative
+没 O
+有 O
+了 O
+
+
+Negative
+滚 O
+吧 O
+
+
+Negative
+暂时 O
+没 O
+有 O
+
+
+Negative
+弄 O
+得 O
+很 O
+脏 O
+
+
+Negative
+都 O
+不 O
+知道 O
+怎么 O
+说 O
+你好 O
+
+
+Negative
+简直 O
+不 O
+能 O
+更 O
+差 O
+了 O
+
+
+Negative
+没 O
+有 O
+修好 O
+
+
+Negative
+漏水 O
+漏 O
+得 O
+厉害 O
+
+
+Negative
+不 O
+认真 O
+
+
+Negative
+越 O
+修 O
+越 O
+烂 O
+
+
+Negative
+烂 O
+透 O
+了 O
+
+
+Negative
+你 O
+闭嘴 O
+
+
+Negative
+乱说 O
+什么 O
+呢 O
+
+
+Negative
+服务 O
+态度 O
+不 O
+行 O
+
+
+Negative
+技术 O
+有 O
+待 O
+提高 O
+
+
+Negative
+到处 O
+都 O
+弄 O
+得 O
+很 O
+乱 O
+
+
+Negative
+太 O
+随便 O
+了 O
+吧 O
+
+
+Negative
+骗钱 O
+的 O
+
+
+Negative
+到处 O
+都是 O
+问题 O
+
+
+Mid
+你 O
+是 O
+谁 O
+
+
+Mid
+你 O
+有 O
+什么 O
+事 O
+
+
+Mid
+你 O
+找 O
+他 O
+干 O
+什么 O
+
+
+Mid
+滚筒 O
+洗衣 O
+机 O
+
+
+Mid
+人工 O
+服务 O
+
+
+Mid
+你 O
+决定 O
+吧 O
+
+
+Mid
+修理 O
+工人 O
+
+
+Mid
+清洁 O
+服务 O
+
+
+Mid
+安装 O
+师傅 O
+
+
+Mid
+李 O
+强 O
+回来 O
+了 O
+
+
+Mid
+海尔 O
+
+
+Mid
+电 O
+冰箱 O
+
+
+Mid
+看 O
+电视 O
+
+
+Mid
+早餐 O
+吃 O
+什么 O
+
+
+Mid
+再见 O
+
+
+Mid
+北京 O
+天气 O
+
+
+Mid
+上海 O
+地铁 O
+
+
+Mid
+创意 O
+产业 O
+园 O
+
+
+Mid
+今晚 O
+吃 O
+猪肉 O
+
+
+Mid
+你 O
+说 O
+了 O
+什么 O
+
+
+Mid
+开车 O
+过去 O
+的 O
+
+
+Mid
+太阳 O
+出来 O
+了 O
+
+
+Mid
+地板 O
+还 O
+没 O
+有 O
+干 O
+
+
+Mid
+拆开 O
+来 O
+看 O
+下 O
+吧 O
+
+
+Mid
+我 O
+来 O
+看看 O
+
+
+Mid
+手 O
+上 O
+没 O
+有 O
+零钱 O
+了 O
+
+
+Mid
+英语 O
+四六 O
+级 O
+考试 O
+
+
+Mid
+该 O
+去 O
+交 O
+电费 O
+了 O
+
+
+Mid
+江苏 O
+省 O
+包 O
+邮 O
+吗 O
+
+
+Mid
+来 O
+杯 O
+咖啡 O
+
+

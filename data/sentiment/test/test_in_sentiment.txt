@@ -1,0 +1,3395 @@
+Mid
+给 O
+我 O
+讲 O
+个 O
+开心 O
+的 O
+故事 O
+
+Positive
+爱 O
+奇 O
+艺 O
+谢谢 O
+
+Mid
+帮 O
+我 O
+播放 O
+爱 O
+的 O
+供养 O
+
+Positive
+支持 O
+啊 O
+
+Mid
+什么 O
+游戏 O
+很 O
+好玩 O
+
+Mid
+值得 O
+老师 O
+和 O
+同学 O
+站 O
+两 O
+竖 O
+排 O
+
+Mid
+明天 O
+天气 O
+怎么 O
+样 O
+呢 O
+
+Mid
+晚上 O
+10 O
+点钟 O
+提醒 O
+我 O
+明天 O
+出门 O
+带 O
+伞 O
+
+Negative
+哦哦 O
+我 O
+什么 O
+也 O
+听 O
+不 O
+见 O
+
+Negative
+不 O
+用 O
+了 O
+不 O
+用 O
+更新 O
+
+Positive
+提醒 O
+我 O
+明天 O
+买 O
+新鲜 O
+的 O
+水果 O
+明天 O
+的 O
+水果 O
+
+Mid
+百度 O
+百度 O
+百度 O
+百度 O
+
+Mid
+我 O
+需要 O
+了解 O
+我 O
+电脑 O
+的 O
+显卡 O
+
+Mid
+哈哈 O
+哈哈 O
+黑 O
+猫 O
+警长 O
+听听 O
+
+Mid
+王 O
+昊天 O
+帅 O
+不 O
+帅 O
+
+Positive
+美女 O
+的 O
+极品 O
+
+Mid
+好 O
+吧 O
+我 O
+错 O
+拿 O
+了 O
+我 O
+的 O
+耳机 O
+我 O
+以为 O
+
+Positive
+可以 O
+同步 O
+
+Positive
+我 O
+喜欢 O
+技术 O
+问题 O
+
+Positive
+超级 O
+安全 O
+防火墙 O
+
+Positive
+你 O
+觉得 O
+我 O
+不 O
+错 O
+
+Positive
+喜欢 O
+大白 O
+
+Mid
+四 O
+马 O
+宏 O
+力 O
+高中 O
+数学 O
+
+Positive
+没 O
+事儿 O
+
+Positive
+安静 O
+的 O
+知己 O
+
+Positive
+我 O
+爱 O
+爸爸 O
+妈妈 O
+
+Positive
+同学 O
+们 O
+好 O
+
+Positive
+都 O
+有 O
+
+Positive
+中午 O
+好 O
+
+Positive
+温暖 O
+的 O
+结 O
+的 O
+地址 O
+局 O
+
+Positive
+快 O
+唱 O
+给 O
+我 O
+听 O
+
+Positive
+看到 O
+老师 O
+那 O
+甜甜 O
+的 O
+笑容 O
+让 O
+我 O
+感到 O
+了 O
+这里 O
+的 O
+这些 O
+老师 O
+十分 O
+和蔼可亲 O
+
+Mid
+你 O
+还 O
+会 O
+改变 O
+吗 O
+
+Mid
+我们 O
+玩 O
+成语 O
+接龙 O
+吧 O
+
+Positive
+精美 O
+的 O
+壁纸 O
+
+Positive
+帮 O
+我 O
+说 O
+啊 O
+
+Mid
+是 O
+联想 O
+好 O
+还是 O
+苹果 O
+好 O
+
+Positive
+温暖 O
+的 O
+结 O
+衣 O
+子 O
+
+Mid
+帮 O
+我 O
+找到 O
+那个 O
+软件 O
+的 O
+文件 O
+
+Positive
+美女 O
+照片 O
+性感 O
+
+Negative
+智障 O
+玩 O
+的 O
+游戏 O
+啊 O
+
+Mid
+哦 O
+我 O
+的 O
+电脑 O
+
+Positive
+好 O
+快 O
+
+Mid
+大 O
+自然 O
+还有 O
+哪些 O
+的 O
+
+Mid
+有 O
+什么 O
+生活 O
+手机 O
+是 O
+生活 O
+
+Positive
+热情 O
+赞颂 O
+啊 O
+赞 O
+点 O
+赞 O
+
+Mid
+帮 O
+我 O
+找 O
+一下 O
+好 O
+压 O
+软件 O
+的 O
+文件 O
+
+Positive
+是 O
+呀 O
+经典 O
+名言 O
+
+Positive
+经典 O
+名言 O
+
+Positive
+写 O
+一篇 O
+我 O
+喜欢 O
+
+Mid
+帮 O
+我 O
+用 O
+网易 O
+云 O
+音乐 O
+播放 O
+空空如也 O
+
+Positive
+好 O
+啊 O
+看好 O
+你 O
+哦 O
+呵 O
+哦 O
+
+Mid
+啥 O
+是 O
+比较 O
+经典 O
+名言 O
+
+Mid
+每次 O
+去 O
+到 O
+东华 O
+西 O
+路 O
+提醒 O
+我 O
+叮叮 O
+打卡 O
+
+Negative
+能 O
+不 O
+能 O
+懂 O
+了 O
+哦 O
+
+Mid
+帮 O
+我 O
+找 O
+一下 O
+懒 O
+羊 O
+羊 O
+
+Positive
+我 O
+应该 O
+喜欢 O
+后面 O
+插 O
+
+Positive
+儿童 O
+很 O
+帅 O
+
+Mid
+给 O
+我 O
+搜 O
+一下 O
+新 O
+来 O
+的 O
+
+Positive
+我 O
+永远 O
+喜欢 O
+
+Mid
+我 O
+想 O
+问 O
+一下 O
+这 O
+款 O
+笔记本 O
+是 O
+哪 O
+一款 O
+的 O
+
+Mid
+你 O
+觉得 O
+范 O
+冰冰 O
+好看 O
+还是 O
+我 O
+好看 O
+
+Mid
+今天 O
+有 O
+什么 O
+电影 O
+好看 O
+啊 O
+
+Positive
+甜甜 O
+的 O
+文章 O
+三百 O
+字 O
+
+Mid
+搜索 O
+二维 O
+震撼 O
+随机 O
+
+Positive
+推荐 O
+几个 O
+好看 O
+的 O
+电影 O
+
+Mid
+帮 O
+我 O
+找 O
+一下 O
+蓝牙 O
+音箱 O
+
+Positive
+你好 O
+性感 O
+的 O
+治疗 O
+好 O
+可爱 O
+
+Positive
+好 O
+你好 O
+用 O
+法语 O
+说 O
+很 O
+高兴 O
+
+Positive
+我 O
+也 O
+心动 O
+荒野 O
+行动 O
+
+Positive
+我 O
+最爱 O
+吃 O
+午餐 O
+
+Positive
+推荐 O
+好看 O
+的 O
+电影 O
+
+Positive
+哦 O
+可爱 O
+的 O
+可爱 O
+的 O
+
+Mid
+菠萝 O
+的 O
+英文 O
+怎么 O
+讲 O
+
+Positive
+我 O
+还 O
+喜欢 O
+跟 O
+你 O
+一 O
+起 O
+玩儿 O
+
+Mid
+写 O
+一篇 O
+我 O
+喜欢 O
+小 O
+白兔 O
+的 O
+作文 O
+
+Positive
+经常 O
+大笑 O
+
+Positive
+超酷 O
+
+Mid
+现在 O
+什么 O
+游戏 O
+最 O
+好玩 O
+
+Positive
+很 O
+高兴 O
+认识 O
+你 O
+
+Mid
+拍照 O
+功能 O
+在 O
+哪 O
+呢 O
+
+Positive
+很 O
+好 O
+用 O
+英语 O
+怎么 O
+说 O
+
+Mid
+美国 O
+有 O
+多少 O
+个 O
+州 O
+
+Positive
+好 O
+用 O
+的 O
+视频 O
+软件 O
+
+Mid
+唱 O
+征服 O
+来 O
+听 O
+
+Positive
+帮 O
+我 O
+找 O
+一下 O
+漂亮 O
+壁纸 O
+
+Mid
+就是 O
+我 O
+刚刚 O
+发 O
+微 O
+信 O
+那个 O
+的 O
+
+Positive
+我 O
+的 O
+宝贝 O
+
+Positive
+我 O
+喜欢 O
+小白 O
+
+Positive
+我 O
+的 O
+家里 O
+有 O
+个人 O
+很 O
+酷 O
+
+Mid
+今天 O
+美 O
+贸易 O
+谈判 O
+
+Positive
+你 O
+喜欢 O
+天气 O
+
+Positive
+我 O
+爱 O
+梅花 O
+阅读 O
+答案 O
+
+Mid
+人体 O
+功能 O
+活动 O
+幅度 O
+的 O
+能力 O
+
+Mid
+海底 O
+捞 O
+
+Positive
+太阳 O
+最好 O
+的 O
+动物 O
+
+Mid
+一 O
+份 O
+欧式 O
+期权 O
+可以 O
+分解 O
+为 O
+
+Positive
+动漫 O
+推荐 O
+
+Positive
+你 O
+还 O
+会 O
+蒙古 O
+语 O
+
+Positive
+坚持 O
+的 O
+电影 O
+
+Positive
+推荐 O
+一 O
+串 O
+彩票 O
+号码 O
+
+Positive
+最 O
+美 O
+的 O
+期待 O
+
+Positive
+看 O
+呀 O
+找 O
+呀 O
+找 O
+
+Mid
+你 O
+在 O
+哪里 O
+用 O
+英文 O
+说 O
+
+Mid
+北京 O
+属于 O
+哪 O
+一款 O
+产品 O
+
+Mid
+关于 O
+耶路撒冷 O
+的 O
+
+Mid
+我 O
+生日 O
+快 O
+到 O
+了 O
+
+Mid
+帮 O
+我 O
+找 O
+最近 O
+的 O
+百度 O
+
+Positive
+写 O
+一篇 O
+我 O
+喜欢 O
+小 O
+白兔 O
+的 O
+作文 O
+三百 O
+字 O
+
+Mid
+现在 O
+天气 O
+天气 O
+
+Positive
+爱 O
+qq O
+音乐 O
+
+Positive
+那 O
+一 O
+刻 O
+我 O
+真 O
+开心 O
+
+Mid
+网络 O
+搜索 O
+爱 O
+剪辑 O
+
+Mid
+明天 O
+栖霞 O
+的 O
+天气 O
+
+Positive
+马 O
+亚 O
+公主 O
+美 O
+
+Mid
+用 O
+英语 O
+交流 O
+
+Negative
+刘 O
+守坤 O
+不 O
+帅 O
+
+Mid
+北京 O
+下次 O
+遇见 O
+v O
+三 O
+
+Positive
+唱 O
+的 O
+真好 O
+
+Positive
+说 O
+多 O
+幸运 O
+
+Negative
+我 O
+好 O
+胖 O
+呀 O
+怎么 O
+办 O
+
+Mid
+向往 O
+生活 O
+第 O
+二 O
+季 O
+
+Negative
+一定 O
+没 O
+听 O
+懂 O
+啊 O
+
+Mid
+你 O
+觉得 O
+明天 O
+吃 O
+什么 O
+好 O
+呢 O
+
+Positive
+可以 O
+对 O
+我 O
+说 O
+你好 O
+吗 O
+
+Positive
+美 O
+若 O
+黎明 O
+
+Mid
+武汉 O
+力 O
+日程 O
+
+Mid
+说 O
+睡 O
+多 O
+长 O
+时间 O
+合适 O
+
+Positive
+我 O
+爱 O
+刷牙 O
+
+Positive
+哎呀 O
+我 O
+好 O
+谢谢 O
+啦 O
+
+Positive
+推荐 O
+个 O
+房子 O
+
+Positive
+刚好 O
+遇见 O
+你 O
+
+Positive
+很 O
+喜欢 O
+
+Mid
+醉拳 O
+微 O
+的 O
+再生 O
+资源 O
+打折 O
+
+Mid
+自然 O
+杂志 O
+
+Mid
+五 O
+岁 O
+多 O
+长 O
+时间 O
+合适 O
+
+Positive
+绘 O
+本 O
+我 O
+爱 O
+刷牙 O
+
+Positive
+买 O
+新鲜 O
+的 O
+水果 O
+
+Mid
+每个 O
+地方 O
+的 O
+房子 O
+比较 O
+
+Positive
+呵呵 O
+谢谢 O
+主人 O
+
+Mid
+午睡 O
+多 O
+长 O
+时间 O
+合适 O
+
+Positive
+心 O
+的 O
+爱 O
+
+Positive
+用 O
+法语 O
+说 O
+高兴 O
+
+Mid
+帮 O
+我 O
+搜索 O
+王者 O
+荣耀 O
+
+Mid
+去 O
+哪 O
+买房 O
+合适 O
+啊 O
+
+Positive
+我 O
+也 O
+想 O
+穿 O
+
+Positive
+嗨 O
+喽 O
+喽 O
+
+Mid
+找 O
+一款 O
+可以 O
+k O
+歌 O
+的 O
+软件 O
+
+Mid
+必 O
+应 O
+是 O
+谁 O
+呀 O
+
+Positive
+快 O
+祝 O
+我 O
+生日 O
+快乐 O
+呀 O
+
+Mid
+帮 O
+我 O
+搜索 O
+一下 O
+今天 O
+nba O
+所有 O
+的 O
+比赛 O
+
+Positive
+用 O
+酷 O
+狗 O
+很 O
+好 O
+用 O
+
+Positive
+必 O
+达 O
+
+Mid
+照顾 O
+好 O
+我 O
+七 O
+舅 O
+姥爷 O
+
+Positive
+神奇 O
+的 O
+动物 O
+
+Mid
+习 O
+近 O
+平 O
+有 O
+几个 O
+哥哥 O
+的 O
+
+Mid
+用 O
+网易 O
+云 O
+音乐 O
+播放 O
+最新 O
+
+Mid
+国外 O
+有 O
+什么 O
+好玩 O
+的 O
+地方 O
+
+Positive
+热情 O
+自信 O
+
+Mid
+给 O
+我 O
+看 O
+一下 O
+明天 O
+的 O
+天气 O
+
+Positive
+我们 O
+玩 O
+了 O
+一 O
+整个 O
+下午 O
+
+Positive
+你 O
+喜欢 O
+什么 O
+样 O
+的 O
+礼物 O
+
+Mid
+一直 O
+是 O
+指 O
+对 O
+未来 O
+
+Negative
+你好 O
+没 O
+劲 O
+
+Positive
+谢谢 O
+哦 O
+
+Mid
+帮 O
+我 O
+点 O
+网易 O
+云 O
+音乐 O
+里面 O
+的 O
+
+Positive
+喜欢 O
+吃 O
+什么 O
+
+Mid
+帮 O
+我 O
+搜索 O
+最近 O
+的 O
+酒店 O
+
+Mid
+经典 O
+福克斯 O
+然后 O
+于 O
+几 O
+
+Mid
+帮 O
+我 O
+打开 O
+网易 O
+音乐 O
+谢谢 O
+
+Positive
+美女 O
+秘书 O
+
+Mid
+帮 O
+我 O
+设 O
+一个 O
+下午 O
+2 O
+点钟 O
+的 O
+闹铃 O
+
+Mid
+来 O
+人类 O
+的 O
+
+Mid
+他 O
+那个 O
+还有 O
+一 O
+份 O
+呢 O
+
+Mid
+帮 O
+我 O
+找 O
+短篇 O
+故事 O
+
+Positive
+你 O
+真好 O
+呀 O
+你 O
+真好 O
+
+Positive
+美丽 O
+乡村 O
+
+Positive
+付 O
+梦妮 O
+谢谢 O
+
+Positive
+妈妈 O
+的 O
+哥哥 O
+的 O
+爱 O
+
+Positive
+史 O
+上 O
+最 O
+可爱 O
+的 O
+头发 O
+
+Positive
+史 O
+上 O
+最 O
+可爱 O
+最 O
+简单 O
+的 O
+发型 O
+
+Mid
+帮 O
+我 O
+查 O
+一下 O
+上海 O
+到 O
+青岛 O
+的 O
+火车 O
+
+Positive
+画 O
+超 O
+简单 O
+又 O
+好看 O
+的 O
+图片 O
+
+Mid
+帮 O
+我 O
+找 O
+一 O
+部 O
+好看 O
+的 O
+电影 O
+
+Positive
+神奇 O
+法 O
+
+Positive
+快 O
+三 O
+
+Positive
+舒适 O
+
+Mid
+美国 O
+旧金山 O
+天气 O
+
+Mid
+是 O
+帅 O
+还是 O
+我 O
+帅 O
+
+Positive
+经典 O
+得到 O
+了 O
+
+Mid
+介绍 O
+一 O
+部 O
+大片 O
+儿 O
+给 O
+我 O
+看 O
+
+Mid
+那 O
+你 O
+还 O
+会 O
+什么 O
+
+Positive
+我 O
+喜欢 O
+书 O
+
+Positive
+舒适 O
+用纸 O
+做 O
+的 O
+
+Mid
+帮 O
+我 O
+找 O
+一个 O
+cad O
+
+Positive
+山 O
+云雾 O
+萦绕 O
+这里 O
+的 O
+
+Positive
+鸭血 O
+粉丝 O
+汤 O
+好吃 O
+啊 O
+
+Mid
+你 O
+帅 O
+不 O
+帅 O
+
+Positive
+欢迎 O
+回来 O
+
+Mid
+关于 O
+校园 O
+欺凌 O
+做 O
+一 O
+份 O
+手 O
+抄报 O
+
+Positive
+唱 O
+一 O
+首 O
+经典 O
+的 O
+老歌 O
+
+Positive
+特别 O
+亲切 O
+标 O
+的 O
+
+Positive
+用 O
+重庆 O
+话 O
+夸 O
+美女 O
+
+Positive
+爱 O
+是 O
+
+Positive
+哈 O
+喽 O
+
+Mid
+帮 O
+我 O
+找 O
+个 O
+文件 O
+
+Positive
+天生 O
+的 O
+越 O
+多 O
+这么 O
+好 O
+
+Mid
+红海 O
+行动 O
+的 O
+免费 O
+完整 O
+版 O
+
+Mid
+历史 O
+上 O
+的 O
+明天 O
+
+Mid
+来 O
+首 O
+比赛 O
+
+Positive
+你 O
+最 O
+喜欢 O
+的 O
+是 O
+什么 O
+
+Positive
+穿 O
+内衣 O
+的 O
+美女 O
+
+Positive
+美人鱼 O
+美人鱼 O
+美人鱼 O
+作品 O
+还有 O
+美人鱼 O
+电影 O
+美人鱼 O
+电影 O
+
+Mid
+2018 O
+年 O
+跑 O
+男团 O
+对 O
+在 O
+太原 O
+拍摄 O
+的 O
+是 O
+第 O
+几 O
+页 O
+
+Mid
+请 O
+帮 O
+我 O
+查 O
+一下 O
+明天 O
+的 O
+天气 O
+
+Negative
+电脑 O
+好 O
+卡 O
+
+Positive
+安静 O
+时间 O
+
+Positive
+哈哈 O
+七 O
+点 O
+的 O
+
+Positive
+法拉利 O
+好 O
+
+Mid
+历史 O
+上 O
+的 O
+5 O
+月 O
+6 O
+号 O
+
+Mid
+我 O
+是 O
+你 O
+爸爸 O
+
+Positive
+海宁 O
+亲爱 O
+的 O
+的 O
+包裹 O
+收 O
+到 O
+礼物 O
+
+Positive
+新 O
+草莓 O
+甜点 O
+
+Positive
+春天 O
+有 O
+什么 O
+好玩 O
+的 O
+地方 O
+呀 O
+
+Positive
+快 O
+说 O
+喜欢 O
+喜欢 O
+喜欢 O
+
+Mid
+春天 O
+哪些 O
+地方 O
+好玩 O
+
+Mid
+春天 O
+都 O
+可以 O
+去 O
+哪 O
+
+Positive
+性感 O
+呀 O
+对 O
+
+Mid
+你 O
+喜欢 O
+玩 O
+什么 O
+游戏 O
+
+Positive
+搜索 O
+优秀 O
+作文 O
+的 O
+开头 O
+和 O
+结尾 O
+
+Positive
+欢迎 O
+
+Positive
+很 O
+棒 O
+了 O
+你 O
+
+Positive
+春天 O
+都 O
+可以 O
+去 O
+哪里 O
+
+Positive
+春天 O
+可以 O
+去 O
+
+Positive
+啊 O
+哈哈 O
+
+Mid
+明天 O
+上午 O
+的 O
+天气 O
+
+Mid
+帮 O
+我 O
+找 O
+一下 O
+我 O
+的 O
+世界 O
+
+Positive
+世界 O
+上 O
+最 O
+帅 O
+的 O
+
+Positive
+无与伦比 O
+的 O
+美 O
+
+Positive
+越 O
+黄 O
+越 O
+好 O
+
+Mid
+美女 O
+的 O
+衣服 O
+
+Mid
+打开 O
+美女 O
+的 O
+qq O
+
+Mid
+我们 O
+明天 O
+的 O
+天气 O
+
+Mid
+你 O
+知道 O
+高达 O
+吗 O
+
+Negative
+有 O
+点 O
+远 O
+的 O
+
+Mid
+有 O
+些 O
+吗 O
+
+Mid
+我 O
+要 O
+怎么 O
+去 O
+美国 O
+
+Negative
+电脑 O
+声音 O
+小 O
+一点 O
+
+Mid
+你 O
+知道 O
+乔布斯 O
+吗 O
+
+Mid
+你 O
+听 O
+过 O
+大学 O
+吗 O
+
+Negative
+你 O
+没 O
+有 O
+
+Negative
+东边 O
+不 O
+行 O
+
+Mid
+百度 O
+搜索 O
+桌面 O
+上 O
+没 O
+有 O
+我 O
+的 O
+电脑 O
+应该 O
+怎么 O
+走 O
+
+Negative
+贵 O
+圈 O
+真 O
+乱 O
+
+Negative
+我 O
+认为 O
+你 O
+不够 O
+智能 O
+
+Negative
+我 O
+不 O
+欠 O
+你 O
+了 O
+
+Negative
+我 O
+不 O
+打算 O
+要 O
+了 O
+
+Negative
+取消 O
+这个 O
+入口 O
+
+Mid
+通知 O
+管理 O
+
+Negative
+你 O
+为 O
+什么 O
+这么 O
+难听 O
+
+Mid
+给 O
+我 O
+讲 O
+个 O
+故事 O
+行 O
+不 O
+行 O
+
+Mid
+40 O
+分钟 O
+后 O
+提醒 O
+我 O
+收 O
+衣服 O
+
+Mid
+你 O
+有 O
+siri O
+style O
+吗 O
+
+Negative
+是 O
+难受 O
+你 O
+面 O
+的 O
+奶奶 O
+
+Negative
+不 O
+是 O
+用 O
+法语 O
+说 O
+很 O
+高兴 O
+认识 O
+你 O
+
+Negative
+为 O
+什么 O
+我 O
+打字 O
+会 O
+那么 O
+慢 O
+
+Mid
+哎 O
+你 O
+唱 O
+一 O
+首 O
+歌 O
+来 O
+听 O
+吗 O
+
+Negative
+你 O
+妹 O
+的 O
+
+Negative
+我 O
+不要 O
+斗 O
+地主 O
+
+Mid
+你 O
+知道 O
+啪啪 O
+啪 O
+是 O
+什么 O
+意思 O
+吗 O
+
+Mid
+早上 O
+响 O
+的 O
+音乐 O
+
+Negative
+不 O
+信 O
+我 O
+打 O
+你 O
+
+Mid
+你 O
+会 O
+即兴 O
+饶舌 O
+吗 O
+
+Negative
+你 O
+是 O
+傻 O
+呀 O
+
+Mid
+哎 O
+你 O
+会 O
+用 O
+贵州 O
+话 O
+喊 O
+麦 O
+吗 O
+
+Mid
+你 O
+怎么 O
+听 O
+
+Mid
+请问 O
+光盘 O
+dvd O
+怎么 O
+打开 O
+
+Negative
+没 O
+你 O
+的 O
+事儿 O
+了 O
+
+Positive
+众望所归 O
+
+Mid
+换 O
+一 O
+首 O
+歌 O
+行 O
+不 O
+行 O
+
+Negative
+我 O
+需要 O
+的 O
+是 O
+人机 O
+对话 O
+而 O
+不 O
+是 O
+数据 O
+
+Mid
+你 O
+有 O
+照片 O
+吗 O
+
+Mid
+如何 O
+关 O
+了 O
+
+Mid
+空姐 O
+黑 O
+丝 O
+图 O
+谜 O
+
+Mid
+请 O
+你 O
+跟 O
+我 O
+说 O
+句 O
+情话 O
+
+Negative
+我 O
+的 O
+光盘 O
+怎么 O
+不 O
+能 O
+放 O
+
+Negative
+越 O
+弱 O
+流经 O
+
+Negative
+不 O
+在 O
+吗 O
+
+Negative
+你 O
+还 O
+能 O
+再 O
+智能 O
+些 O
+吗 O
+
+Negative
+无 O
+耻 O
+
+Mid
+你 O
+知道 O
+三星 O
+吗 O
+
+Negative
+你 O
+他 O
+妈 O
+就是 O
+个 O
+大 O
+傻 O
+逼 O
+奶 O
+告诉 O
+奶子 O
+傻 O
+逼 O
+打 O
+麻将 O
+
+Negative
+叫 O
+什么 O
+鬼 O
+吗 O
+
+Mid
+你 O
+敢 O
+骂 O
+siri O
+吗 O
+
+Mid
+请 O
+把 O
+声音 O
+开 O
+大 O
+一点 O
+
+Positive
+你 O
+硬 O
+
+Mid
+我 O
+不 O
+是 O
+学 O
+了 O
+几 O
+种 O
+方言 O
+吗 O
+
+Negative
+你 O
+是 O
+猪 O
+
+Mid
+你 O
+能 O
+变成 O
+男 O
+的 O
+声音 O
+吗 O
+
+Negative
+为 O
+什么 O
+我 O
+的 O
+相机 O
+打 O
+不 O
+开 O
+
+Negative
+把 O
+你 O
+的 O
+这个 O
+窗口 O
+关闭 O
+
+Mid
+如何 O
+取消 O
+掉 O
+的 O
+柳絮 O
+
+Positive
+有 O
+问题 O
+尽管 O
+问 O
+我 O
+
+Negative
+为 O
+什么 O
+不 O
+挽留 O
+我 O
+
+Mid
+你 O
+吃 O
+屎 O
+你 O
+爸爸 O
+同意 O
+吗 O
+
+Negative
+我 O
+想 O
+骗 O
+她 O
+
+Negative
+你 O
+怎么 O
+什么 O
+都 O
+不 O
+会 O
+啊 O
+
+Negative
+滚 O
+你 O
+妈 O
+蛋 O
+
+Negative
+为 O
+什么 O
+会 O
+出现 O
+错误 O
+
+Negative
+老鼠 O
+
+Negative
+我 O
+靠 O
+你 O
+个 O
+傻子 O
+
+Negative
+你 O
+想 O
+让 O
+我 O
+骂 O
+你 O
+傻 O
+逼 O
+吗 O
+
+Negative
+操 O
+你 O
+妈 O
+了 O
+个 O
+逼 O
+是 O
+不 O
+是 O
+他 O
+妈 O
+的 O
+叫 O
+你 O
+大 O
+傻 O
+逼 O
+
+Mid
+什么 O
+烟 O
+
+Mid
+为 O
+什么 O
+他们 O
+不 O
+玩 O
+游戏 O
+
+Mid
+哎 O
+讲 O
+普通 O
+话 O
+
+Negative
+可是 O
+我 O
+真的 O
+生气 O
+了 O
+
+Negative
+对不起 O
+我 O
+听 O
+不 O
+明白 O
+再说 O
+一遍 O
+
+Mid
+把 O
+声音 O
+关 O
+小 O
+一点 O
+
+Mid
+放 O
+点 O
+粤语 O
+歌 O
+吧 O
+
+Negative
+一个 O
+不够 O
+
+Negative
+怎么 O
+成 O
+这样 O
+了 O
+
+Negative
+关机 O
+你 O
+去 O
+过 O
+动物 O
+园 O
+儿 O
+吗 O
+
+Negative
+头痛 O
+不 O
+想 O
+看书 O
+
+Negative
+不 O
+知道 O
+不 O
+是 O
+
+Mid
+女 O
+汉子 O
+一边 O
+一般 O
+扎 O
+什么 O
+样 O
+的 O
+发型 O
+
+Negative
+都 O
+不 O
+打开 O
+
+Mid
+你 O
+去 O
+过 O
+动物 O
+园 O
+吗 O
+
+Mid
+如果 O
+关机 O
+了 O
+闹钟 O
+还 O
+能 O
+响 O
+吗 O
+
+Mid
+把 O
+声音 O
+加大 O
+点 O
+
+Negative
+你 O
+就是 O
+不 O
+好 O
+
+Negative
+我 O
+这个 O
+怎么 O
+下 O
+不 O
+了 O
+东西 O
+啊 O
+
+Negative
+我 O
+讨厌 O
+你 O
+
+Negative
+我 O
+被 O
+人 O
+欺负 O
+
+Negative
+你 O
+这个 O
+软件 O
+怎么 O
+这么 O
+没 O
+用 O
+
+Negative
+坏 O
+了 O
+你 O
+说 O
+过 O
+吗 O
+
+Mid
+怎样 O
+小姐 O
+吗 O
+
+Mid
+为 O
+什么 O
+找 O
+不 O
+到 O
+
+Negative
+看 O
+你 O
+这个 O
+破 O
+电脑 O
+的 O
+游戏 O
+
+Mid
+你 O
+知道 O
+人工 O
+智能 O
+吗 O
+
+Mid
+你 O
+会 O
+萝莉 O
+音 O
+吗 O
+
+Positive
+没 O
+有 O
+这样 O
+夸 O
+自己 O
+呢 O
+
+Mid
+我 O
+说 O
+一 O
+句 O
+你 O
+学 O
+一 O
+句 O
+好 O
+吗 O
+
+Mid
+哎 O
+你 O
+想 O
+好 O
+了 O
+没 O
+有 O
+
+Mid
+是 O
+狗 O
+吗 O
+
+Mid
+利 O
+拉 O
+德 O
+职业 O
+生涯 O
+得分 O
+破 O
+万 O
+
+Mid
+半个 O
+小时 O
+后 O
+关 O
+电脑 O
+
+Negative
+你 O
+笨 O
+了 O
+
+Mid
+你 O
+还 O
+能干 O
+嘛 O
+
+Negative
+别 O
+说话 O
+你 O
+死 O
+了 O
+
+Negative
+打开 O
+微 O
+信 O
+不 O
+是 O
+打开 O
+网页 O
+
+Negative
+你 O
+伤心 O
+虐杀 O
+原形 O
+
+Mid
+微 O
+信 O
+为 O
+什么 O
+登陆 O
+不 O
+上 O
+windows8 O
+1 O
+
+Mid
+你 O
+奶奶 O
+是 O
+谁 O
+
+Negative
+我 O
+什么 O
+都 O
+不 O
+能干 O
+
+Negative
+你 O
+这种 O
+性格 O
+很 O
+讨 O
+人 O
+烦 O
+
+Negative
+他 O
+不 O
+会 O
+掉 O
+
+Negative
+你 O
+有 O
+没 O
+有 O
+良心 O
+
+Negative
+没 O
+什么 O
+关 O
+了 O
+吧 O
+
+Negative
+不 O
+懂 O
+
+Mid
+你 O
+还是 O
+小 O
+朋友 O
+吗 O
+
+Negative
+你 O
+妈 O
+逼 O
+呀 O
+不 O
+垃圾 O
+
+Negative
+不 O
+理 O
+我 O
+不 O
+理 O
+我 O
+我 O
+也 O
+不 O
+理 O
+你 O
+
+Negative
+死 O
+了 O
+你 O
+打 O
+我 O
+
+Negative
+不 O
+是 O
+左撇子 O
+
+Negative
+不 O
+是 O
+人工 O
+智能 O
+
+Negative
+你 O
+太 O
+暴力 O
+
+Negative
+明天 O
+早上 O
+4 O
+点 O
+半 O
+的 O
+闹钟 O
+取消 O
+掉 O
+吧 O
+
+Negative
+不 O
+胖 O
+
+Negative
+差劲 O
+的 O
+人工 O
+智能 O
+
+Negative
+我 O
+要 O
+让 O
+你 O
+干 O
+人 O
+
+Negative
+你 O
+是 O
+个 O
+死人 O
+吗 O
+
+Negative
+哎 O
+关键 O
+时刻 O
+指 O
+不 O
+上 O
+你 O
+了 O
+
+Negative
+你 O
+生气 O
+啊 O
+
+Positive
+谁 O
+说 O
+你 O
+不 O
+好 O
+用 O
+
+Negative
+你 O
+才 O
+傻 O
+呢 O
+
+Mid
+我 O
+有 O
+钱 O
+吗 O
+
+Negative
+我 O
+今天 O
+心情 O
+不 O
+太 O
+好 O
+
+Negative
+你 O
+妹 O
+啊 O
+你 O
+妹 O
+啊 O
+
+Negative
+我 O
+靠 O
+坏 O
+呀 O
+
+Mid
+请问 O
+我 O
+这 O
+辈子 O
+有 O
+可能 O
+结婚 O
+吗 O
+
+Mid
+你 O
+听说 O
+过 O
+安利 O
+吗 O
+
+Negative
+你 O
+太 O
+不 O
+智能 O
+了 O
+
+Negative
+你 O
+怎么 O
+那么 O
+傻 O
+
+Negative
+取消 O
+了 O
+
+Mid
+你 O
+有 O
+大爷 O
+吗 O
+
+Mid
+我 O
+到家 O
+了 O
+有 O
+什么 O
+提醒 O
+吗 O
+
+Negative
+我 O
+的 O
+手机 O
+不 O
+是 O
+啊 O
+
+Negative
+有 O
+什么 O
+病 O
+了 O
+呀 O
+她 O
+就 O
+不 O
+理 O
+
+Negative
+为 O
+什么 O
+这么 O
+难 O
+用 O
+
+Negative
+经济 O
+不 O
+好看 O
+不 O
+到 O
+月亮 O
+星座 O
+
+Negative
+你 O
+就 O
+死 O
+定 O
+了 O
+
+Negative
+手机 O
+看 O
+不 O
+了 O
+爱 O
+奇 O
+艺 O
+
+Mid
+是 O
+不 O
+
+Negative
+死 O
+了 O
+没 O
+有 O
+
+Negative
+你 O
+唱歌 O
+太 O
+难听 O
+了 O
+
+Mid
+没 O
+生 O
+你 O
+的 O
+气 O
+
+Negative
+你 O
+唱歌 O
+一点 O
+都 O
+不 O
+好听 O
+
+Positive
+我 O
+就是 O
+
+Positive
+你好 O
+
+Positive
+是的 O
+没 O
+错 O
+
+Positive
+可以 O
+啊 O
+
+Positive
+方便 O
+的 O
+
+Positive
+你 O
+说 O
+吧 O
+
+Positive
+请 O
+说 O
+
+Positive
+好 O
+的 O
+
+Positive
+说 O
+吧 O
+
+Positive
+都 O
+好 O
+都 O
+好 O
+就 O
+这样 O
+吧 O
+
+Positive
+现在 O
+没 O
+问题 O
+了 O
+
+Positive
+能 O
+用 O
+了 O
+
+Positive
+还 O
+可以 O
+吧 O
+
+Positive
+师傅 O
+服务 O
+挺 O
+好 O
+的 O
+
+Positive
+非常 O
+满意 O
+啊 O
+
+Positive
+有 O
+清理 O
+了 O
+
+Positive
+打扫 O
+过 O
+的 O
+
+Positive
+很 O
+干净 O
+
+Positive
+还 O
+不 O
+错 O
+
+Positive
+有 O
+出示 O
+
+Positive
+安装 O
+过程 O
+很 O
+干净 O
+
+Positive
+做 O
+的 O
+很 O
+仔细 O
+
+Positive
+简单 O
+清理 O
+了 O
+一下 O
+
+Positive
+嗯 O
+怎么 O
+了 O
+
+Positive
+安装 O
+好 O
+了 O
+
+Positive
+没 O
+有 O
+问题 O
+的 O
+
+Positive
+挺 O
+不 O
+错 O
+的 O
+一 O
+次 O
+
+Positive
+我 O
+挺 O
+满意 O
+的 O
+
+Positive
+很 O
+好 O
+啊 O
+
+Positive
+非常 O
+棒 O
+
+Positive
+师傅 O
+的 O
+技术 O
+太 O
+厉害 O
+了 O
+
+Positive
+冰箱 O
+可以 O
+正常 O
+工作 O
+了 O
+
+Positive
+现在 O
+是 O
+可以 O
+的 O
+
+Positive
+我 O
+觉得 O
+还 O
+行 O
+吧 O
+
+Positive
+基本 O
+上 O
+没 O
+什么 O
+问题 O
+了 O
+
+Positive
+我 O
+答应 O
+你 O
+
+Positive
+我 O
+就是 O
+
+Positive
+你们 O
+都是 O
+人才 O
+
+Positive
+很 O
+好看 O
+
+Positive
+干 O
+得 O
+漂亮 O
+
+Negative
+不 O
+是 O
+
+Negative
+你 O
+打 O
+错 O
+了 O
+
+Negative
+不 O
+认识 O
+这个 O
+人 O
+
+Negative
+不 O
+方便 O
+
+Negative
+没 O
+时间 O
+
+Negative
+不 O
+用 O
+回访 O
+了 O
+
+Negative
+现在 O
+没 O
+空 O
+
+Negative
+明天 O
+也 O
+没 O
+空 O
+
+Negative
+好 O
+什么 O
+好 O
+
+Negative
+简直 O
+就是 O
+乱 O
+搞 O
+
+Negative
+瞎 O
+弄 O
+
+Negative
+不 O
+正常 O
+
+Negative
+不 O
+能 O
+
+Negative
+不 O
+行 O
+
+Negative
+现在 O
+又 O
+坏 O
+了 O
+
+Negative
+服务 O
+太 O
+差 O
+了 O
+
+Negative
+技术 O
+不 O
+行 O
+
+Negative
+技术 O
+不 O
+过关 O
+
+Negative
+迟到 O
+了 O
+很多 O
+
+Negative
+不 O
+准时 O
+
+Negative
+不 O
+满意 O
+
+Negative
+没 O
+有 O
+了 O
+
+Negative
+滚 O
+吧 O
+
+Negative
+暂时 O
+没 O
+有 O
+
+Negative
+弄 O
+得 O
+很 O
+脏 O
+
+Negative
+都 O
+不 O
+知道 O
+怎么 O
+说 O
+你好 O
+
+Negative
+简直 O
+不 O
+能 O
+更 O
+差 O
+了 O
+
+Negative
+没 O
+有 O
+修好 O
+
+Negative
+漏水 O
+漏 O
+得 O
+厉害 O
+
+Negative
+不 O
+认真 O
+
+Negative
+越 O
+修 O
+越 O
+烂 O
+
+Negative
+烂 O
+透 O
+了 O
+
+Negative
+你 O
+闭嘴 O
+
+Negative
+乱说 O
+什么 O
+呢 O
+
+Negative
+服务 O
+态度 O
+不 O
+行 O
+
+Negative
+技术 O
+有 O
+待 O
+提高 O
+
+Negative
+到处 O
+都 O
+弄 O
+得 O
+很 O
+乱 O
+
+Negative
+太 O
+随便 O
+了 O
+吧 O
+
+Negative
+骗钱 O
+的 O
+
+Negative
+到处 O
+都是 O
+问题 O
+
+Mid
+你 O
+是 O
+谁 O
+
+Mid
+你 O
+有 O
+什么 O
+事 O
+
+Mid
+你 O
+找 O
+他 O
+干 O
+什么 O
+
+Mid
+滚筒 O
+洗衣 O
+机 O
+
+Mid
+人工 O
+服务 O
+
+Mid
+你 O
+决定 O
+吧 O
+
+Mid
+修理 O
+工人 O
+
+Mid
+清洁 O
+服务 O
+
+Mid
+安装 O
+师傅 O
+
+Mid
+李 O
+强 O
+回来 O
+了 O
+
+Mid
+海尔 O
+
+Mid
+电 O
+冰箱 O
+
+Mid
+看 O
+电视 O
+
+Mid
+早餐 O
+吃 O
+什么 O
+
+Mid
+再见 O
+
+Mid
+北京 O
+天气 O
+
+Mid
+上海 O
+地铁 O
+
+Mid
+创意 O
+产业 O
+园 O
+
+Mid
+今晚 O
+吃 O
+猪肉 O
+
+Mid
+你 O
+说 O
+了 O
+什么 O
+
+Mid
+开车 O
+过去 O
+的 O
+
+Mid
+太阳 O
+出来 O
+了 O
+
+Mid
+地板 O
+还 O
+没 O
+有 O
+干 O
+
+Mid
+拆开 O
+来 O
+看 O
+下 O
+吧 O
+
+Mid
+我 O
+来 O
+看看 O
+
+Mid
+手 O
+上 O
+没 O
+有 O
+零钱 O
+了 O
+
+Mid
+英语 O
+四六 O
+级 O
+考试 O
+
+Mid
+该 O
+去 O
+交 O
+电费 O
+了 O
+
+Mid
+江苏 O
+省 O
+包 O
+邮 O
+吗 O
+
+Mid
+来 O
+杯 O
+咖啡 O
+
