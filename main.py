@@ -1,8 +1,8 @@
 import sys
 import os
-from model.ner_model import NERModel
+''''from model.ner_model import NERModel
 from model.embedding_projection_ner_model import ProjectionNERModel
-from model.config import Config
+from model.config import Config''''
 import glob
 import pickle
 
@@ -14,7 +14,7 @@ globalModel = None
 def hello_world():
     return 'Hello, World!'
 
-@app.route('/user/<username>')
+'''@app.route('/user/<username>')
 def show_user_profile(username):
     # show the user profile for that user
     return 'User %s' % username
@@ -36,7 +36,7 @@ def buildModel():
 def detect(sentence):
     global globalModel
     pred_domain, pred_intent, pred_tags = globalModel.predict(sentence, 0)
-    return pred_intent
+    return pred_intent''''
 
 if __name__ == "__main__":
     app.run()
